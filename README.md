@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Kaaveh/Kaaveh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🤔 Philosophia
+
+💻 Android developer
+
+🏔 Mountainer
+
+📻 Podcaster: [WonderLand](http://pod.link/1525211010)
