@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 🤓 Bookworm: [My GoodReads account](https://www.goodreads.com/user/show/101071340-kaaveh-mohamedi) <br>
 🎥 Youtuber: [My channel](https://www.youtube.com/channel/UCVnbJ9UHinFrQIy9WAUV_yw?view_as=subscriber)
 
-You can find me on [Linkdin](https://www.linkedin.com/in/kaaveh/), [Instagram](https://www.instagram.com/kaaveh_mohamedi/) and [Telegram](https://t.me/javatar)
+You can find me on [LinkedIn](https://www.linkedin.com/in/kaaveh/), [Instagram](https://www.instagram.com/kaaveh_mohamedi/) and [Telegram](https://t.me/javatar)
