@@ -1,6 +1,8 @@
 🤔 Philosophia <br>
 💻 Android developer <br>
 🏔 Mountainer <br>
+🧘🏻‍♂️ Meditator <br>
+🥋 Martial artist <br>
 📻 Podcaster: [WonderLand](http://pod.link/1525211010) <br>
 🤓 Bookworm: [My GoodReads account](https://www.goodreads.com/user/show/101071340-kaaveh-mohamedi) <br>
 🎥 Youtuber: [My channel](https://www.youtube.com/channel/UCVnbJ9UHinFrQIy9WAUV_yw?view_as=subscriber)
