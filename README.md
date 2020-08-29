@@ -20,3 +20,5 @@ Here are some ideas to get you started:
 🎥 Youtuber: [My channel](https://www.youtube.com/channel/UCVnbJ9UHinFrQIy9WAUV_yw?view_as=subscriber)
 
 You can find me on [LinkedIn](https://www.linkedin.com/in/kaaveh/), [Instagram](https://www.instagram.com/kaaveh_mohamedi/) and [Telegram](https://t.me/javatar)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api?username=Kaaveh&theme=prussian&show_icons=true)](https://github.com/Kaaveh)
