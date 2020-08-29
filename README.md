@@ -12,10 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🤔 Philosophia
-
-💻 Android developer
-
-🏔 Mountainer
-
-📻 Podcaster: [WonderLand](http://pod.link/1525211010)
+🤔 Philosophia <br>
+💻 Android developer <br>
+🏔 Mountainer <br>
+📻 Podcaster: [WonderLand](http://pod.link/1525211010) <br>
+🤓 Bookworm: [My GoodReads account](https://www.goodreads.com/user/show/101071340-kaaveh-mohamedi)
