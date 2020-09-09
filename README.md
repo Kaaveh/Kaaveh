@@ -1,6 +1,6 @@
 🤔 Philosophia <img src="https://github.com/Kaaveh/Kaaveh/blob/master/me.jpg" align="right" height="250"/><br>
 💻 Android developer <br>
-🏔 Mountainer <br>
+🏔 Mountaineer <br>
 🧘🏻‍♂️ Meditator <br>
 🥋 Martial artist <br>
 📻 Podcaster: [WonderLand](http://pod.link/1525211010) <br>
