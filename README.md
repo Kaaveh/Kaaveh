@@ -1,4 +1,4 @@
-🤔 Philosophia <img src="https://github.com/Kaaveh/Kaaveh/blob/master/me.jpg" align="right" height="250"/><br>
+🤔 Philosophus <img src="https://github.com/Kaaveh/Kaaveh/blob/master/me.jpg" align="right" height="250"/><br>
 💻 Android developer <br>
 🏔 Mountaineer <br>
 🧘🏻‍♂️ Meditator <br>
