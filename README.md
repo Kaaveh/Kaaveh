@@ -3,7 +3,7 @@
 🏔 Mountaineer <br>
 🧘🏻‍♂️ Meditator <br>
 🥋 Martial artist <br>
-📻 Podcaster: [WonderLand](https://anchor.fm/wonderlandpod) <br>
+📻 Podcaster: [WonderLand](https://anchor.fm/wonderlandpod), [The voice of my books](https://anchor.fm/the-voice-of-my-books), [Kapsoul](https://anchor.fm/kapsoul) <br>
 🤓 Bookworm: [My GoodReads account](https://www.goodreads.com/user/show/101071340-kaaveh-mohamedi) <br>
 🎥 Youtuber: [My channel](https://www.youtube.com/channel/UCVnbJ9UHinFrQIy9WAUV_yw?view_as=subscriber)
 
