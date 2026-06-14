@@ -1,0 +1,31 @@
+name: Update feeds
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Pull latest YouTube videos
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UC_PSOgZBu28krqe0L93OKgg"
+          max_post_count: 6
+          comment_tag_name: "YOUTUBE-VIDEOS"
+          commit_message: "chore: refresh latest YouTube videos"
+
+      - name: Pull latest Medium articles
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://medium.com/feed/@kaaveh"
+          max_post_count: 4
+          comment_tag_name: "MEDIUM-POSTS"
+          commit_message: "chore: refresh latest Medium articles"
