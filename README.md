@@ -13,7 +13,7 @@
 ### ✍️ Latest articles
 <!-- MEDIUM-POSTS:START -->
 - [Debugging Jetpack Compose &lpar;Based on true story! &rpar;](https://proandroiddev.com/debugging-jetpack-compose-based-on-true-story-5592eb01e0?source=rss-8b2f28edbdea------2)
-- [Kotlin scope functions for dummies!](https://blog.kotlin-academy.com/kotlin-scope-functions-for-dummies-cb8c8970b8d9?source=rss-8b2f28edbdea------2)
+- [Kotlin scope functions for dummies!](https://medium.com/kotlin-academy/kotlin-scope-functions-for-dummies-cb8c8970b8d9?source=rss-8b2f28edbdea------2)
 - [Migrate from MVVM to MVI](https://proandroiddev.com/migrate-from-mvvm-to-mvi-f938c27c214f?source=rss-8b2f28edbdea------2)
 - [An introduction about Preview in Jetpack Compose](https://proandroiddev.com/an-introduction-about-preview-in-jetpack-compose-b72a96daac35?source=rss-8b2f28edbdea------2)
 <!-- MEDIUM-POSTS:END -->
