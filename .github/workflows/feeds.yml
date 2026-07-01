@@ -21,6 +21,8 @@ jobs:
           max_post_count: 6
           comment_tag_name: "YOUTUBE-VIDEOS"
           commit_message: "chore: refresh latest YouTube videos"
+          retry_count: 3
+          retry_wait_time: 10
 
       - name: Pull latest Medium articles
         uses: gautamkrishnar/blog-post-workflow@v1
@@ -29,3 +31,5 @@ jobs:
           max_post_count: 4
           comment_tag_name: "MEDIUM-POSTS"
           commit_message: "chore: refresh latest Medium articles"
+          retry_count: 3
+          retry_wait_time: 10
