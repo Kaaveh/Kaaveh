@@ -31,12 +31,12 @@
 
 #### Latest videos
 <!-- YOUTUBE-VIDEOS:START -->
+- [🏗️ Spec-Driven Development: Engineering AI Code](https://www.youtube.com/watch?v=bGib_HN1sao)
 - [📺 I Let Claude Code Build My Android TV App — Here&#39;s What Happened](https://www.youtube.com/watch?v=s6VDJv9mD0k)
 - [An introduction about Preview in Jetpack Compose](https://www.youtube.com/watch?v=Q8-Vixwq2pM)
 - [Migrate from JUnit5 to Kotest 🐊](https://www.youtube.com/watch?v=-rVPOxuqIEg)
 - [Migrate from ROOM Database to SQLDelight 2](https://www.youtube.com/watch?v=A7bWCrCXijw)
 - [Speed up with KSP &lpar;Kotlin Symbol Processing&rpar;](https://www.youtube.com/watch?v=fUAk5-xuAUc)
-- [Coroutines VS. Threads](https://www.youtube.com/watch?v=hjASLkHz-8k)
 <!-- YOUTUBE-VIDEOS:END -->
 
 ---
