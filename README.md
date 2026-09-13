@@ -2,7 +2,7 @@
 
 ### 💻 Senior Android Engineer
 
-8+ years building consumer apps at scale — Jetpack Compose migrations, modular architecture, and developer productivity. 500+ ⭐ across open source · 4 conference talks · 8 articles · 20+ mentees.
+7+ years building consumer apps at scale — Jetpack Compose migrations, modular architecture, and developer productivity. 500+ ⭐ across open source · 4 conference talks · 8 articles · 20+ mentees.
 
 🤔 Philosophus · 🍀 Life coach · 🚴🏻 Cyclist · 🧘🏻‍♂️ Meditator · 🥋 Martial artist · 🏔 Mountaineer
 
